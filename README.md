@@ -12,7 +12,7 @@ docker-compose up
 
 On the other hand, if you do not want to with debug info printing on screen.
 ``` 
-docker-compose up
+docker-compose up -d
 ```
 
 ## Documentation and Swagger
